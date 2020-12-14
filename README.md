@@ -7,10 +7,16 @@ Algo que decir.
 
 ## Introduction
 
+Otra cosa.
+
 ## Purpose
 
 Sample website with plenty of files for
 
 ## Deployment
 
+Comentario para implementación.
+
 ## How to contribute
+
+Otro comentario.
