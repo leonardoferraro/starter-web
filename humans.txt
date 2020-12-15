@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Leonardo Ferraro	leonardoferraro@gmail.com
 
 # THANKS
 
