@@ -19,7 +19,7 @@ Comentario para implementación.
 
 ## How to contribute
 
-Otro comentario.
+Por favor fork este repositorio y luego pull foreva chukever.
 
 ### Copyright
 
