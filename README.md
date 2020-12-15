@@ -20,3 +20,7 @@ Comentario para implementación.
 ## How to contribute
 
 Otro comentario.
+
+### Copyright
+
+2014 Git.Training.
