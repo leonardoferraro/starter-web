@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 
-Algo que decir.
+Algo que decir. Escribamos algo para notar las modificaciones en este archivo.
 
 
 ## Introduction
