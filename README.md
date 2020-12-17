@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work.
 
 Algo que decir. Escribamos algo para notar las modificaciones en este archivo. Mas cambios en mi featured branch.
 
+Emergency changes after stage.
+
 
 ## Introduction
 
